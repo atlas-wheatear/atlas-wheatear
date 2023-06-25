@@ -1,0 +1,3 @@
+baseURL = 'https://atlas-wheatear.com/'
+languageCode = 'en-gb'
+title = 'Atlas Wheatear Blog'
